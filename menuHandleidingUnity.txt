@@ -1,0 +1,14 @@
+MENU UITLEG
+______________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+-maak een button aan, en plaats deze (in 2d) in je unity scene.
+
+-maak een script voor je gewenste actie of gebruik een bestaand script
+
+-maak een blank object aan in unity, en maak je script hieraan vast.
+
+-maak een button aan en zet bij de onclick je blank object met daaraaan je script.
+
+je hebt nu een werkende knop in unity
